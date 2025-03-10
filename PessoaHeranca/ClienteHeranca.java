@@ -1,4 +1,4 @@
-public class ClienteHeranca extends Pessoa {
+public class ClienteHeranca extends PessoaJuFi {
     private String dataDePagamento;
     private String formaDePagamento;
 

@@ -1,4 +1,4 @@
-public class FuncionarioHeranca extends Pessoa {
+public class FuncionarioHeranca extends PessoaJuFi {
     private String matricula;
     private String cargo;
     private double salario;
