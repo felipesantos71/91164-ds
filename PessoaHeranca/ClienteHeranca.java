@@ -1,10 +1,9 @@
-public class ClienteHeranca extends PessoaJuFi {
+public class ClienteHeranca extends Pessoa {
     private String dataDePagamento;
     private String formaDePagamento;
 
     public ClienteHeranca() {
     }
-
 
     public ClienteHeranca(String nome, int idade, String dataDePagamento, String formaDePagamento) {
         super(nome, idade);
